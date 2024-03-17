@@ -8,4 +8,4 @@ This project was designed to run a virtual probability simulation of daily activ
 To execute, please download the above files and run FlightSimulator.java 
 
 ## Project Specifications
-- Java Queue: Incorporates a Java Queue data structure to efficiently manage and prioritize all incoming queries and requests. By leveraging the inherent capabilities of a Queue, the system ensures orderly processing of queries, maintaining fairness and integrity in handling user interactions. This implementation enhances system responsiveness, scalability, and reliability, optimizing overall performance and user experience.
+- Java Queue: Incorporates a Java Queue data structure to efficiently manage and prioritize all incoming queries and requests. By leveraging the capabilities of a Queue, the system ensures the orderly processing of queries.This implementation enhances system responsiveness, scalability, and reliability, optimizing overall performance and user experience.
